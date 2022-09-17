@@ -44,6 +44,6 @@ def word_count_engine(document):
     return output
 
 
-file = "Practice makes perfect. you'll only get? Perfect by practice. just practice!"
+file = "LeetCodePractice makes perfect. you'll only get? Perfect by practice. just practice!"
 
 print(word_count_engine(file))

@@ -1,5 +1,5 @@
 class Solution:
-    def canJump(self, nums: List[int]) -> bool:
+    def canJump(self, nums) -> bool:
         last_index = len(nums) - 1
 
         for i in range(len(nums) - 2, -1, -1):
