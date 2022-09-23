@@ -24,4 +24,3 @@ class Solution:
             reversed_Prefix += string_list[i]
 
         return reversed_Prefix
-    
