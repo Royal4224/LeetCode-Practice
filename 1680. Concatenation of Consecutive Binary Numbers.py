@@ -16,3 +16,7 @@ class Solution:
         total_sum = int((prev_sum * power + n) % 1000000007)
 
         return total_sum, power
+
+## while i != 0:
+##    s = s + (i % 2)
+##    i // 2
